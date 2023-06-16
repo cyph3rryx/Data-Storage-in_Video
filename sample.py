@@ -14,6 +14,7 @@ OUTPUT_DIR = 'frames/'
 # Define the maximum number of threads to use for frame generation
 MAX_THREADS = 8
 
+
 def compress_data(file_bytes):
     # Compress the input file bytes using a simple run-length encoding algorithm
     compressed_bytes = []
