@@ -15,7 +15,7 @@ OUTPUT_DIR = 'frames/'
 MAX_THREADS = 8
 
 def compress_data(file_bytes):
-    # Compress the input file bytes using a simple run-length encoding algorithm
+    # Compress the input file bytes by using a simple run-length encoding algorithm
     compressed_bytes = []
     curr_bit = file_bytes[0]
     count = 1
