@@ -1,8 +1,8 @@
-# Data-Storage-in_Video
+# Data-Storage in Video
 
 - A program that converts any type of file eg. zip, exe, jpg,etc...into frames into images where every part of the frame that is black represents zero and every part of frame that is white represents one. Because all the data on this world is zero and one and we just want to represent it as black and white.
 
-- A converter that actually converts any file into a frames of youtube video where every frame is composed of blacks and whites. So in every seconds there are 24 frames that we are going to encode which means that every hour on youtube can store a 45GB of data.
+- A converter that actually converts any file into a frame of youtube video where every frame is composed of blacks and whites. So in every seconds there are 24 frames that we are going to encode which means that every hour on youtube can store a 45GB of data.
 
 ## Steps to do so:
 
