@@ -4,7 +4,6 @@ import threading
 from PIL import Image
 import imageio
 
-# Define the size of each frame
 FRAME_WIDTH = 1920
 FRAME_HEIGHT = 1080
 
